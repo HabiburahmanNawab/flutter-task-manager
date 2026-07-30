@@ -1,16 +1,94 @@
-# testproject
+# 📋 Flutter Task Manager
 
-A new Flutter project.
+A modern and responsive task management application built with **Flutter** and **Dart**. The app helps users organize their daily tasks by allowing them to create, edit, complete, and delete tasks through a clean and intuitive user interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📱 Responsive and user-friendly interface
+- ⚡ Fast performance with Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+├── FirebaseScreens/
+├── Models/
+├── main.dart/
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/flutter-task-manager.git
+```
+
+### Navigate to the project
+
+```bash
+cd flutter-task-manager
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the application
+
+```bash
+flutter run
+```
+
+---
+
+## 📋 Requirements
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
+- Android Emulator or Physical Device
+
+---
+
+## 🎯 Future Improvements
+
+- Task Categories
+- Notifications
+- Dark Mode
+- Cloud Synchronization
+
+---
+
+## 👨‍💻 Author
+
+**Habiburahman Nawab**
+
+Computer Science Graduate | Flutter Developer
+
+GitHub: https://github.com/HabiburahmanNawab
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
